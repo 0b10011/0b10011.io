@@ -12,6 +12,6 @@ you're not sure how to fix it,
 [submit an issue](http://github.com/bfrohs/bfrohs.github.com/issues/) and I'll take a
 look.
 
-<div id="isbnResultContainer"></div>
+<div id="isbnResultContainer"> </div>
 
-<script src="/script/isbnValidate.js"></script>
+<script src="/script/isbnValidate.js"> </script>
