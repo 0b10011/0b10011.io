@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ISBN Validator
+title: ISBN Validator, Converter, and Formatter
 categories: tools
 ---
 
