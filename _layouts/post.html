@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>{{ page.title }} // bfrohs.github.com</title>
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+		<!--[if lt IE 9]>
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+		<![endif]-->
+		<link rel="stylesheet" type="text/css" href="/style/style.css">
+	</head>
+	<body>
+		<header>
+			<h1>{{ page.title }}</h1>
+			<p class="date">Gracing the web with its presence since <time>{{ page.date | date: "%B %d, %Y" }}</time></p>
+		</header>
+		{{ content }}
+		<footer>
+			<p><a href="/">bfrohs.github.com</a></p>
+		</footer>
+	</body>
+</html>

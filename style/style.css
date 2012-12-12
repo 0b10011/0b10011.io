@@ -1,0 +1,58 @@
+html {
+	margin:0;
+	padding:0;
+}
+body {
+	margin:0 auto;
+	padding:2em;
+	font-family:ubuntu, sans-serif;
+	font-size-adjust:.5;
+	font-size:20px;
+	color:#333;
+	line-height:2;
+	max-width:980px;
+}
+h1 {
+	color:#246;
+	font-size:1.5em;
+	line-height:1.5;
+}
+h2 {
+	color:#262;
+	font-size:1.3em;
+	line-height:1.5;
+}
+p.date {
+	margin-top:-1.3em;
+	margin-bottom:1.5em;
+	font-size:.8em;
+}
+p.date > time {
+	font-weight:bold;
+	color:#597;
+}
+p {
+	margin:1em 0;
+}
+small {
+	font-size:.8em;
+	opacity:.8;
+}
+a {
+	color:#579;
+	text-decoration:underline;
+}
+a:visited {
+	color:#959;
+}
+a:hover,
+a:focus {
+	color:#777;
+	text-decoration:underline overline;
+}
+a:visited:hover,
+a:visited:focus {
+}
+footer {
+	border-top:1px solid #333;
+}
