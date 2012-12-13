@@ -4,7 +4,7 @@ title: What's my browser resolution? (Mobile friendly.)
 categories: tools
 ---
 
-<div id="resolutionResult">Loading... <small>(Do you have JavaScript enabled?)</small></div>
+<div id="resolutionResult">Loading... <small>(Make sure you have JavaScript enabled.)</small></div>
 
 This tool measures the width and height of your browser. The website is mobile friendly,
 so it even gives accurate results for mobile browsers! If you come across any issues,
