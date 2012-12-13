@@ -34,6 +34,11 @@ p.date > time {
 p {
 	margin:1em 0;
 }
+output {
+	font-size:1.2em;
+	font-weight:bold;
+	margin:0 2em;
+}
 small {
 	font-size:.8em;
 	opacity:.8;
