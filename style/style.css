@@ -59,6 +59,7 @@ a:visited:hover,
 a:visited:focus {
 }
 footer {
+	margin-top:1.7em;
 	border-top:1px solid #333;
 }
 
