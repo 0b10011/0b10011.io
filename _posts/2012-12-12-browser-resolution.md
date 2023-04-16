@@ -8,8 +8,8 @@ categories: tools
 
 This tool measures the width and height of your browser. The website is mobile friendly,
 so it even gives accurate results for mobile browsers! If you come across any issues,
-[fork this site](http://github.com/bfrohs/bfrohs.github.com/) and submit a fix! Or, if
-you're not sure how to fix it, [submit an issue](http://github.com/bfrohs/bfrohs.github.com/issues/)
+[fork this site](http://github.com/0b10011/0b10011.io/) and submit a fix! Or, if
+you're not sure how to fix it, [submit an issue](http://github.com/0b10011/0b10011.io/issues/)
 and I'll take a look.
 
 <script>
