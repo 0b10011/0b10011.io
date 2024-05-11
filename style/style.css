@@ -1,3 +1,14 @@
+/* see `fonts/OFL.txt` for license */
+@font-face {
+	font-family: mulish;
+	src: url('fonts/mulish.ttf');
+}
+@font-face {
+	font-family: mulish;
+	src: url('fonts/mulish-italic.ttf');
+	font-style: italic;
+}
+
 html {
 	margin:0;
 	padding:0;
@@ -5,7 +16,7 @@ html {
 body {
 	margin:2em auto;
 	padding:0 2em;
-	font-family:ubuntu, sans-serif;
+	font-family:mulish, sans-serif;
 	font-size-adjust:.5;
 	font-size:20px;
 	color:#333;
