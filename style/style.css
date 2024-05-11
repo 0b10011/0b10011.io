@@ -1,11 +1,11 @@
 /* see `fonts/OFL.txt` for license */
 @font-face {
 	font-family: mulish;
-	src: url('fonts/mulish.ttf');
+	src: url('/fonts/mulish.ttf');
 }
 @font-face {
 	font-family: mulish;
-	src: url('fonts/mulish-italic.ttf');
+	src: url('/fonts/mulish-italic.ttf');
 	font-style: italic;
 }
 
